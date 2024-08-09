@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p {fruit,name,sub}_{apple,dimple,maths}
