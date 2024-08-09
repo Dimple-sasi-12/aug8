@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "give a tool name"
+read tool
+case tools in
+	git&github) it is a devops tool;
+         linux)it is a devops tool;
+         docker)it is a devops tool;
+	 kubernetes)it is a devops tool;
+	 maven)it is a devops tool;
+	 *)it is not a devops tool;
+esac
+		
